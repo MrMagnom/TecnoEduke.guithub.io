@@ -1,0 +1,50 @@
+body {
+ background-image: url(../img/fundo.jpg);
+}
+
+.tudo {
+    width: 940px;
+    margin:0 auto;
+}
+
+.primeiro {
+    position: relative;
+}
+
+.menu-opcoes {
+	position: absolute;
+	bottom: 0;
+	right: 0;
+}
+
+.menu-opcoes ul {
+	font-size: 40px;
+}
+
+.menu-opcoes ul li {
+	display: inline;
+	margin-left: 20px;
+}
+
+.menu-opcoes a {
+	color: #003366;
+}
+
+.h2 {
+    font-size: 80px;
+    position: absolute;
+	bottom: 100px;
+	right: 80px;
+}
+
+.cursos1 {
+    display: block;
+    overflow: hidden;
+    position: relative;
+    margin: 8px auto;
+    padding: 8px;
+    width: 300px;
+    font: bold 16px Arial, Helvetica, sans-serif;
+    text-align: center;
+    border-radius: 5px;
+}

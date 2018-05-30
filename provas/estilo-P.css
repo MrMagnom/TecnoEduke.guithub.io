@@ -1,0 +1,13 @@
+body {
+ background-image: url(../img/fundo.jpg);
+}
+
+.questoes {
+    width: 500px;
+    margin:0 auto;
+}
+
+.enviar {
+    width: 200px;
+    margin:0 auto;
+}
